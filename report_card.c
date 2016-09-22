@@ -14,8 +14,8 @@ int main()
 
 	printf("Korean : %d\n", kor);
 	printf("English : %d\n", eng);
-	printf("±³¼ö´Ô222"); //commit6
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
+	printf("Average : %d\n", sum/3);
 	return 0;
 }
